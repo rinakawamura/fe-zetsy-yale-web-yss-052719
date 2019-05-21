@@ -20,7 +20,7 @@ body {
 h1 {
 	font-family: 'Baskerville', cursive;
 	font-size: 5em;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 header a{
