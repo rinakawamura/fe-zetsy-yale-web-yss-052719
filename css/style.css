@@ -60,7 +60,7 @@ header a:hover {
 }
 
 #press img:hover {
-	color: 5px rgb(234, 127, 122) solid;
+	border: 5px rgb(234, 127, 122) solid;
 }
 
 footer {
