@@ -17,6 +17,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+#header {
+	color: rgb(156,172,166);
+}
+
 #top-image {
 	border: 5px rgb(156,172,166) solid;
 }
