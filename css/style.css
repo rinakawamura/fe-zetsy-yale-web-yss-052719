@@ -1,6 +1,9 @@
 /*////////////// Fonts //////////////*/
 
-@import "fonts/Baskerville.ttc"
+@@font-face {
+	font-family: "Baskerville";
+	src: url(../fonts/Baskerville.ttc);
+}
 
 /*////////// Global Styles //////////*/
 
