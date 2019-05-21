@@ -54,6 +54,7 @@ header a:hover {
 
 #about a {
 	color: rgb(59, 130, 182);
+	text-decoration: none;
 }
 
 #press {
