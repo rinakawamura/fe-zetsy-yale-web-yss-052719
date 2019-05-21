@@ -56,6 +56,6 @@ header a:hover {
 	border: 5px rgb(204, 204, 204) solid;
 }
 
-.press-image:hover {
+#press img:hover {
 	color: rgb(114, 127, 122);
 }
