@@ -45,13 +45,13 @@ header a{
 }
 
 header a:hover {
-	color: rgb(114, 127, 112);
+	color: rgb(114, 127, 122);
 }
 
 #top-image {
-	border: 5px rgb(156,172,166) solid;
+	border: 5px rgb(156, 172, 166) solid;
 }
 
 .press-image {
-	border: 5px rgb(156,172,166) solid;
+	border: 5px rgb(204, 204, 204) solid;
 }
