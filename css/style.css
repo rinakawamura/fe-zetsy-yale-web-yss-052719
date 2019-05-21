@@ -22,6 +22,7 @@ h1 {
 	font-size: 5em;
 	text-decoration: none;
 	margin: 0 0 5px;
+	border-bottom: 1px solid #ccc;
 }
 
 header a{
