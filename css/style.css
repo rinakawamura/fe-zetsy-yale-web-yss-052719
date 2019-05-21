@@ -33,6 +33,10 @@ h2 {
 	font-size: 2em;
 }
 
+p {
+	color: rgb(85,85,85);
+}
+
 header a{
 	color: rgb(156,172,166);
 	text-decoration: none;
