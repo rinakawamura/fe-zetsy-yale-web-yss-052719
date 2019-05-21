@@ -52,6 +52,10 @@ header a:hover {
 	border: 5px rgb(156, 172, 166) solid;
 }
 
+#about a {
+	color: rgb(59, 130, 182);
+}
+
 #press {
 	margin-bottom: 20px;
 }
