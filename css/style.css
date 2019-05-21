@@ -58,6 +58,7 @@ header a:hover {
 
 #press img:hover {
 	color: rgb(114, 127, 122);
+	border 200px;
 }
 
 footer {
